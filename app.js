@@ -7,7 +7,7 @@ const app = express();
 
 app.get('/', (req, res) => {
 
-  res.send('Jenkins Deployd to live server, duniya from NodejsApp');
+  res.send('Jenkins Deployd to live server, duniya from NodeJSApp');
 
 });
 
